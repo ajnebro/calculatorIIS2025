@@ -24,7 +24,10 @@ public class Statistics {
   }
 
   /**
-   * Computes the minimum value in an array of numbers.
+   * Computes the minimum value in an
+   *
+   *
+   * array of numbers.
    *
    * @param arrayOfNumbers an array of double values (must not be empty)
    * @return the minimum value in the array
